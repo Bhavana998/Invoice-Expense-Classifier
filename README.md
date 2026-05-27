@@ -70,20 +70,24 @@ The model predicts the following expense categories:
 
 ---
 
+# Live Demo link: https://invoice-expense-classifier.onrender.com/docs
+---
+
 # 🧠 Machine Learning Workflow
 
-```text
-Invoice Text
-      ↓
-Text Preprocessing
-      ↓
-TF-IDF Vectorization
-      ↓
-Logistic Regression Model
-      ↓
-Expense Category Prediction
-      ↓
-Confidence Score
+```mermaid
+flowchart TD
+
+    A[Invoice Text]
+    --> B[Text Preprocessing]
+
+    B --> C[TF-IDF Vectorization]
+
+    C --> D[Logistic Regression Model]
+
+    D --> E[Expense Category Prediction]
+
+    E --> F[Confidence Score]
 ```
 
 ---
@@ -325,7 +329,7 @@ The project can be deployed on:
 
 # 👩‍💻 Author
 
-## Bhavana Setty
+## setty Bhavana
 
 ### GitHub Profile
 
