@@ -225,6 +225,11 @@ Predict expense category from invoice text.
 ---
 
 ## 📥 Request
+# 📌 Sample API Requests
+
+## Example 1 — Cloud/Software
+
+### Request
 
 ```json
 {
@@ -232,9 +237,7 @@ Predict expense category from invoice text.
 }
 ```
 
----
-
-## 📤 Response
+### Response
 
 ```json
 {
@@ -242,6 +245,93 @@ Predict expense category from invoice text.
   "confidence": 0.97
 }
 ```
+
+---
+
+## Example 2 — Logistics
+
+### Request
+
+```json
+{
+  "text": "DHL express courier for warehouse delivery"
+}
+```
+
+### Response
+
+```json
+{
+  "category": "Logistics",
+  "confidence": 0.95
+}
+```
+
+---
+
+## Example 3 — Office Supplies
+
+### Request
+
+```json
+{
+  "text": "Staples printer paper ream 500 sheets"
+}
+```
+
+### Response
+
+```json
+{
+  "category": "Office Supplies",
+  "confidence": 0.94
+}
+```
+
+---
+
+## Example 4 — Utilities
+
+### Request
+
+```json
+{
+  "text": "Electricity bill for March with demand charges"
+}
+```
+
+### Response
+
+```json
+{
+  "category": "Utilities",
+  "confidence": 0.96
+}
+```
+
+---
+
+## Example 5 — Travel
+
+### Request
+
+```json
+{
+  "text": "Delta flight ticket JFK to LAX for business conference"
+}
+```
+
+### Response
+
+```json
+{
+  "category": "Travel",
+  "confidence": 0.93
+}
+```
+
+
+
 
 ---
 
