@@ -431,10 +431,6 @@ The project can be deployed on:
 
 https://github.com/Bhavana998
 
-### Repository
-
-https://github.com/Bhavana998/Invoice-Expense-Classifier
-
 ---
 
 # ⭐ Support
