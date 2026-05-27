@@ -1,0 +1,12 @@
+short_examples = [
+    ("AWS bill", "Cloud/Software"),
+    ("Zoom license", "Cloud/Software"),
+    ("DHL delivery", "Logistics"),
+    ("Staples paper", "Office Supplies"),
+    ("Electricity bill", "Utilities"),
+    ("Uber ride", "Travel"),
+    ("Steel beams", "Inventory"),
+]
+for text, cat in short_examples:
+    for _ in range(50):
+        rows.append({"text": text, "category": cat})

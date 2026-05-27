@@ -1,0 +1,211 @@
+text,category
+DHL courier charges for warehouse delivery,Logistics
+DHL courier expense for warehouse delivery,Logistics
+DHL delivery charges for warehouse shipping,Logistics
+DHL delivery charges for warehouse delivery,Logistics
+DHL courier bill for warehouse delivery,Logistics
+FedEx overnight shipping fee,Logistics
+Blue Dart express parcel,Logistics
+UPS ground freight,Logistics
+UPS freight ground,Logistics
+Maersk container transport,Logistics
+Maersk transport container,Logistics
+TNT freight invoice,Logistics
+freight TNT invoice,Logistics
+USPS priority mail,Logistics
+Canada Post parcel delivery,Logistics
+Royal Mail international shipping,Logistics
+DPD courier services,Logistics
+DPD freight services,Logistics
+DPD delivery services,Logistics
+DPD shipping services,Logistics
+DPD transport services,Logistics
+DHL express 2-day delivery,Logistics
+2-day express DHL delivery,Logistics
+FedEx freight pallet,Logistics
+UPS next day air,Logistics
+air next day UPS,Logistics
+Blue Dart surface transport,Logistics
+TNT economy freight,Logistics
+USPS certified mail,Logistics
+mail certified USPS,Logistics
+Canada Post expedited parcel,Logistics
+Royal Mail tracked shipment,Logistics
+DPD pick-and-deliver,Logistics
+pick-and-deliver DPD,Logistics
+DHL import customs clearance,Logistics
+Staples printer paper order,Office Supplies
+HP ink cartridges purchase,Office Supplies
+Desk chair for office,Office Supplies
+Desk chair for cubicle,Office Supplies
+Notebooks and pens bulk,Office Supplies
+and Notebooks pens bulk,Office Supplies
+Whiteboard markers set,Office Supplies
+Avery label stickers,Office Supplies
+Bic ballpoint pens box,Office Supplies
+Post-it notes pack,Office Supplies
+Brother toner cartridge,Office Supplies
+Scotch tape dispenser,Office Supplies
+Sharpie permanent markers,Office Supplies
+permanent Sharpie markers,Office Supplies
+Swingline stapler,Office Supplies
+Office Depot file folders,Office Supplies
+desk Depot file folders,Office Supplies
+corporate Depot file folders,Office Supplies
+Paper clips and binder clips,Office Supplies
+Paper and clips binder clips,Office Supplies
+Desk lamp LED,Office Supplies
+Canon printer paper,Office Supplies
+Epson ink bottles,Office Supplies
+bottles ink Epson,Office Supplies
+Xerox multifunction paper,Office Supplies
+Fellowes shredder,Office Supplies
+Amazon Basics notebook,Office Supplies
+AWS monthly cloud hosting bill,Cloud/Software
+AWS monthly cloud hosting charge,Cloud/Software
+AWS monthly virtual cloud server charge,Cloud/Software
+AWS monthly recurring hosting hosting bill,Cloud/Software
+AWS monthly hosting hosting bill,Cloud/Software
+bill monthly fee cloud hosting AWS,Cloud/Software
+AWS monthly fee cloud hosting payment due,Cloud/Software
+AWS monthly fee cloud server hosting bill,Cloud/Software
+Azure subscription fee,Cloud/Software
+fee subscription Azure,Cloud/Software
+Google Cloud Platform usage,Cloud/Software
+Google saas Platform usage,Cloud/Software
+Zoom business license renewal,Cloud/Software
+Salesforce CRM subscription,Cloud/Software
+Salesforce subscription CRM,Cloud/Software
+GitHub team plan,Cloud/Software
+Dropbox business storage,Cloud/Software
+Dropbox storage business,Cloud/Software
+Microsoft 365 annual fee,Cloud/Software
+Adobe Creative Cloud license,Cloud/Software
+Adobe Creative hosting license,Cloud/Software
+Adobe Creative online service license,Cloud/Software
+Adobe Creative web license,Cloud/Software
+Slack enterprise grid,Cloud/Software
+Google Workspace business,Cloud/Software
+Atlassian Jira cloud,Cloud/Software
+Atlassian Jira hosting,Cloud/Software
+Atlassian Jira web,Cloud/Software
+Atlassian Jira virtual,Cloud/Software
+DigitalOcean droplet,Cloud/Software
+Heroku dynos,Cloud/Software
+dynos Heroku,Cloud/Software
+Cloudflare pro plan,Cloud/Software
+plan pro Cloudflare,Cloud/Software
+Cloudflare plan pro,Cloud/Software
+Datadog monitoring,Cloud/Software
+New Relic APM,Cloud/Software
+MongoDB Atlas,Cloud/Software
+Redis Labs cloud,Cloud/Software
+Redis Labs virtual,Cloud/Software
+Redis Labs online service,Cloud/Software
+Elastic Cloud,Cloud/Software
+Elastic virtual,Cloud/Software
+Elastic saas,Cloud/Software
+Electricity bill - March,Utilities
+Electricity statement - March,Utilities
+Electricity charge - March,Utilities
+Water supply charges,Utilities
+Water supply cost,Utilities
+Water supply fee,Utilities
+Water supply expense,Utilities
+Gas bill for office heating,Utilities
+Gas bill for workplace heating,Utilities
+Gas payment due for workplace heating,Utilities
+Gas bill for cubicle heating,Utilities
+Internet broadband monthly,Utilities
+Internet broadband each month,Utilities
+Internet broadband per month,Utilities
+Waste management fee,Utilities
+Sewer service charge,Utilities
+service Sewer charge,Utilities
+Street lighting tax,Utilities
+Street tax lighting,Utilities
+Recycling collection fee,Utilities
+Electricity demand charge,Utilities
+Water treatment fee,Utilities
+Natural gas delivery,Utilities
+Heating oil purchase,Utilities
+Propane tank refill,Utilities
+tank Propane refill,Utilities
+Phone line rental,Utilities
+rental line Phone,Utilities
+Cable TV for lobby,Utilities
+Trash pickup service,Utilities
+Stormwater drainage fee,Utilities
+drainage Stormwater fee,Utilities
+fee drainage Stormwater,Utilities
+Electricity green energy surcharge,Utilities
+Water meter rental,Utilities
+Water rental meter,Utilities
+Gas pipeline maintenance,Utilities
+Uber ride to airport,Travel
+Delta flight ticket - NYC,Travel
+Marriott hotel stay,Travel
+hotel Marriott stay,Travel
+Train ticket to Boston,Travel
+Car rental for business trip,Travel
+Lyft ride to client meeting,Travel
+American Airlines domestic flight,Travel
+Hilton hotel conference rate,Travel
+Enterprise rental car,Travel
+Amtrak Acela ticket,Travel
+ticket Acela Amtrak,Travel
+United Airlines round trip,Travel
+United round Airlines trip,Travel
+round Airlines United trip,Travel
+Southwest flight booking,Travel
+Airbnb business suite,Travel
+Hyatt hotel meeting room,Travel
+Alamo rental SUV,Travel
+Taxi from JFK to Manhattan,Travel
+Shuttle service to convention,Travel
+Eurostar train London-Paris,Travel
+London-Paris train Eurostar,Travel
+Bus ticket Greyhound,Travel
+Ferry crossing for work,Travel
+crossing Ferry for work,Travel
+Raw material purchase - steel,Inventory
+- material purchase Raw steel,Inventory
+Warehouse stock order - pallets,Inventory
+Packaging supplies inventory,Inventory
+Packaging supplies supply stock,Inventory
+Packaging items stock,Inventory
+Packaging materials inventory,Inventory
+Packaging stock consumables,Inventory
+Packaging materials store,Inventory
+Packaging consumables stock,Inventory
+Electronics components for stock,Inventory
+Furniture inventory restock,Inventory
+Furniture supply stock restock,Inventory
+Furniture stock restock,Inventory
+Plastic containers bulk,Inventory
+Safety gloves dozen,Inventory
+Safety dozen gloves,Inventory
+Cleaning supplies inventory,Inventory
+Cleaning supplies supply stock,Inventory
+Cleaning equipment inventory,Inventory
+Cleaning supplies merchandise,Inventory
+Cleaning materials stock,Inventory
+Cleaning supplies warehouse goods,Inventory
+Labels and barcodes,Inventory
+Shipping boxes 200ct,Inventory
+Steel beams for fabrication,Inventory
+Steel fabrication for beams,Inventory
+Copper wire spool,Inventory
+wire Copper spool,Inventory
+Rubber gaskets bulk,Inventory
+LED light bulbs 100pk,Inventory
+Battery pack AA,Inventory
+Battery AA pack,Inventory
+Wooden pallets 50x40,Inventory
+Stretch wrap roll,Inventory
+wrap Stretch roll,Inventory
+Corrugated inserts,Inventory
+Plastic strapping band,Inventory
+band strapping Plastic,Inventory
+strapping Plastic band,Inventory
+Adhesive tape 48mm,Inventory

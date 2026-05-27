@@ -1,0 +1,13 @@
+version: '3.8'
+
+services:
+  classifier:
+    build: .
+    ports:
+      - "8000:8000"
+    # Optionally mount to avoid retraining each time (but training is fast)
+    volumes:
+      - ./models:/app/models
+    environment:
+      - LOG_LEVEL=info
+    restart: unless-stopped

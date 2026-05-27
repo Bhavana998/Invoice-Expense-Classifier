@@ -1,0 +1,121 @@
+text,category
+DHL courier charges for warehouse delivery,Logistics
+FedEx overnight shipping fee,Logistics
+Blue Dart express parcel,Logistics
+UPS ground freight,Logistics
+Maersk container transport,Logistics
+TNT freight invoice,Logistics
+USPS priority mail,Logistics
+Canada Post parcel delivery,Logistics
+Royal Mail international shipping,Logistics
+DPD courier services,Logistics
+DHL express 2‑day delivery,Logistics
+FedEx freight pallet,Logistics
+UPS next day air,Logistics
+Blue Dart surface transport,Logistics
+TNT economy freight,Logistics
+USPS certified mail,Logistics
+Canada Post expedited parcel,Logistics
+Royal Mail tracked shipment,Logistics
+DPD pick‑and‑deliver,Logistics
+DHL import customs clearance,Logistics
+Staples printer paper order,Office Supplies
+HP ink cartridges purchase,Office Supplies
+Desk chair for office,Office Supplies
+Notebooks and pens bulk,Office Supplies
+Whiteboard markers set,Office Supplies
+Avery label stickers,Office Supplies
+Bic ballpoint pens box,Office Supplies
+Post‑it notes pack,Office Supplies
+Brother toner cartridge,Office Supplies
+Scotch tape dispenser,Office Supplies
+Sharpie permanent markers,Office Supplies
+Swingline stapler,Office Supplies
+Office Depot file folders,Office Supplies
+Paper clips and binder clips,Office Supplies
+Desk lamp LED,Office Supplies
+Canon printer paper,Office Supplies
+Epson ink bottles,Office Supplies
+Xerox multifunction paper,Office Supplies
+Fellowes shredder,Office Supplies
+Amazon Basics notebook,Office Supplies
+AWS monthly cloud hosting bill,Cloud/Software
+Azure subscription fee,Cloud/Software
+Google Cloud Platform usage,Cloud/Software
+Zoom business license renewal,Cloud/Software
+Salesforce CRM subscription,Cloud/Software
+GitHub team plan,Cloud/Software
+Dropbox business storage,Cloud/Software
+Microsoft 365 annual fee,Cloud/Software
+Adobe Creative Cloud license,Cloud/Software
+Slack enterprise grid,Cloud/Software
+Google Workspace business,Cloud/Software
+Atlassian Jira cloud,Cloud/Software
+DigitalOcean droplet,Cloud/Software
+Heroku dynos,Cloud/Software
+Cloudflare pro plan,Cloud/Software
+Datadog monitoring,Cloud/Software
+New Relic APM,Cloud/Software
+MongoDB Atlas,Cloud/Software
+Redis Labs cloud,Cloud/Software
+Elastic Cloud,Cloud/Software
+Electricity bill - March,Utilities
+Water supply charges,Utilities
+Gas bill for office heating,Utilities
+Internet broadband monthly,Utilities
+Waste management fee,Utilities
+Sewer service charge,Utilities
+Street lighting tax,Utilities
+Recycling collection fee,Utilities
+Electricity demand charge,Utilities
+Water treatment fee,Utilities
+Natural gas delivery,Utilities
+Heating oil purchase,Utilities
+Propane tank refill,Utilities
+Phone line rental,Utilities
+Cable TV for lobby,Utilities
+Trash pickup service,Utilities
+Stormwater drainage fee,Utilities
+Electricity green energy surcharge,Utilities
+Water meter rental,Utilities
+Gas pipeline maintenance,Utilities
+Uber ride to airport,Travel
+Delta flight ticket - NYC,Travel
+Marriott hotel stay,Travel
+Train ticket to Boston,Travel
+Car rental for business trip,Travel
+Lyft ride to client meeting,Travel
+American Airlines domestic flight,Travel
+Hilton hotel conference rate,Travel
+Enterprise rental car,Travel
+Amtrak Acela ticket,Travel
+United Airlines round trip,Travel
+Southwest flight booking,Travel
+Airbnb business suite,Travel
+Hyatt hotel meeting room,Travel
+Alamo rental SUV,Travel
+Taxi from JFK to Manhattan,Travel
+Shuttle service to convention,Travel
+Eurostar train London-Paris,Travel
+Bus ticket Greyhound,Travel
+Ferry crossing for work,Travel
+Raw material purchase - steel,Inventory
+Warehouse stock order - pallets,Inventory
+Packaging supplies inventory,Inventory
+Electronics components for stock,Inventory
+Furniture inventory restock,Inventory
+Plastic containers bulk,Inventory
+Safety gloves dozen,Inventory
+Cleaning supplies inventory,Inventory
+Labels and barcodes,Inventory
+Shipping boxes 200ct,Inventory
+Steel beams for fabrication,Inventory
+Copper wire spool,Inventory
+Rubber gaskets bulk,Inventory
+LED light bulbs 100pk,Inventory
+Battery pack AA,Inventory
+Wooden pallets 50x40,Inventory
+Stretch wrap roll,Inventory
+Corrugated inserts,Inventory
+Plastic strapping band,Inventory
+Adhesive tape 48mm,Inventory
