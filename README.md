@@ -239,7 +239,7 @@ Predict expense category from invoice text.
 
 ```json
 {
-  "text": "AWS monthly cloud hosting bill"
+  "text": "Delta flight ticket JFK to LAX for business conference"
 }
 ```
 
@@ -247,8 +247,8 @@ Predict expense category from invoice text.
 
 ```json
 {
-  "category": "Cloud/Software",
-  "confidence": 0.97
+  "category": "Travel",
+  "confidence": 0.77
 }
 ```
 
