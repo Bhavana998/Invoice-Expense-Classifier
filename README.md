@@ -72,6 +72,12 @@ The model predicts the following expense categories:
 
 # Live Demo link: https://invoice-expense-classifier.onrender.com/docs
 ---
+# output screens
+## Input
+![Swagger](output/swagger-ui.png)
+
+## output
+![output](output/output.png)
 
 # 🧠 Machine Learning Workflow
 
